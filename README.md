@@ -1,10 +1,7 @@
-<h1 align="center">Welcome</h1>
-
-###  Hi, im Evannn.  <img src="https://cdn.discordapp.com/attachments/890288032551424092/904825701914517584/890368948623798282.gif" height="16px"/> ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=Stan-Byes.Stan-Byes)
-
-
-
-
+<h1 align="center">Hi, I'm Evannn</h1>
+<h3 align = "center"><strong>I'm Front-end Developper </h3>
+  <br>
+<h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
 <p align="right">
    <a href="https://discord.com/users/725623395294773308" target="_blank" rel="nofollow">
       <img src="https://lanyard-profile-readme.vercel.app/api/725623395294773308?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right">
@@ -15,7 +12,7 @@
 
 - 🔍 Im work on a big project.
 - 🚀 How to join me ? [Profil Discord](https://discord.com/users/725623395294773308).
-- 🐧Old staff on Clappy Host
+- 🐧 Old staff on Clappy Host
 - 👤 My [biography](https://dsc.bio/Wekyts) on discord.
 
 
@@ -23,9 +20,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l3ks304r2m69fbsz9t7ikco8w&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=7DbdUf8aHSYoliSjO6LZv6&redirect=true)
 
-<br />
+<br>
 
-
+   
 <Langages et outils de codage>
 <h1 align="center">
 Languages and tools</h1>
