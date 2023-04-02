@@ -4,7 +4,7 @@
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
 <p align="right">
    <a href="https://discord.com/users/725623395294773308" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/725623395294773308?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right">
+      <img src="https://lanyard.cnrad.dev/api/725623395294773308" align="right">
    </a>
 </p>
 
